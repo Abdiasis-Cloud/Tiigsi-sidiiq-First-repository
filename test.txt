@@ -1,2 +1,3 @@
 This is a testing code.
 This is another testing
+this is another line for testing -am option
