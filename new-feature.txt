@@ -1,0 +1,4 @@
+1. Added login Functionality
+2. Forgot password by email and whatsapp
+3. logout Functionality
+4. Made some Refactoring
